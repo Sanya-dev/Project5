@@ -22,10 +22,11 @@
     text-decoration: none;
     margin-right: 42px;
     font-size: 16px;
-    transition: 1s;
+    transition: .5s;
 }
 .link-header a:hover{
-    color: blue;
+    color: rgb(17, 13, 228);
+    box-shadow: 6px 6px #ccc, 12px 12px #a3a3a3;
 }
 .design-internal{
     width: 54%;
